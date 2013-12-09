@@ -1,6 +1,9 @@
-groovePwn by Jonathan Heathcote, GPLv3
+groovePwn
+=========
 
---- FOR EDUCATIONAL USE ONLY ---
+Jonathan Heathcote, Licensed under the GPLv3.
+
+**FOR EDUCATIONAL USE ONLY**
 
 A minimal proxy which will remove ads and snatch MP3s from Grooveshark and store
 them in an organised manner while you use the site as-per-usual.
@@ -12,7 +15,7 @@ To run:
 3: Use grooveshark as per usual and observe the MP3s being placed nicely into
    your current directory!
 
-
-Obviously I condone the use of this software and it is naturally not intended
-for any use beyond education study. I highly recommend you don't use it.
+Obviously I cannot condone the use of this software and it is naturally not
+intended for any use beyond education study. I highly recommend you don't use
+it.
 
